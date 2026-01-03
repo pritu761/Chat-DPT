@@ -12,9 +12,11 @@
   "type": "module",
   "dependencies": {
     "@tavily/core": "^0.6.3",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "groq-sdk": "^0.37.0",
+    "node-cache": "^5.1.2",
     "readline-promise": "^1.0.5"
   }
 }
